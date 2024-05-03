@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @tabs-i
+- 👋 Hi, I’m @tab-i
 - 👀 I’m interested in automation of enginnering analysis/design and its visual represntation
 - 🌱 I’m currently learning Python 
 - ⚡ Fun fact:I enjoy Football (one played with foot instead of hands )
